@@ -13,7 +13,7 @@ We are very excited that in the context of the 1st Workshop on Trust and Privacy
 
 * Moe Wynn, Professor leading the BPM group at Queensland University of Technology
 * Lars Biermann, Senior Manager at Deloitte
-* Jana Lange, IT-Risk Manager at Celonis
+* Jana Lange, IT Risk Manager at Celonis
 * Florian Tschorsch, Assistant Professor leading the Distributed Security Infrastructures group at TU Berlin
 
 The exact program will be published soon. Don't forget to register for free at the [ICPM website](https://icpmconference.org/2020/registration/).  
