@@ -7,16 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## Announcement - Panel Discussion
+## Announcement - Program published
 
-We are very excited that in the context of the 1st Workshop on Trust and Privacy in Process Analytics (TPPA), we are organizing a virtual panel discussion on the topic of Trust and Privacy in Process Analytics. For the panel we have invited four participants with a wide experience in both Process Mining applications and research:
-
-* Moe Wynn, Professor leading the BPM group at Queensland University of Technology
-* Lars Biermann, Senior Manager at Deloitte
-* Jana Lange, IT Risk Manager at Celonis
-* Florian Tschorsch, Assistant Professor leading the Distributed Security Infrastructures group at TU Berlin
-
-The exact program will be published soon. Don't forget to register for free at the [ICPM website](https://icpmconference.org/2020/registration/).  
+We have now finalized the program of the workshop and published the schedule [here](program/).
 
 ## Workshop description
 
@@ -41,8 +34,7 @@ The main objective of the TPPA workshop is to give a forum for the trust and pri
 * Data Quality, and Traceability in Process Analytics
 
 ## Organizing Committee
-*	Felix Mannhardt, SINTEF/ Norwegian University of Science and Technology
-  (mail@fmannhardt.de)
+*	Felix Mannhardt, TU Eindhoven (f.mannhardt@tue.nl)
 *	Agnes Koschmider, Kiel University
 *	Nathalie Baracaldo, IBM Almaden Research Center
 
