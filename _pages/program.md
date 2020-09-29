@@ -10,7 +10,7 @@ The program of the TPPA workshop will take place virtually using the WHOVA event
 
 ## Schedule
 
-| Time            | Title    | Authors / Speakers                                                             |
+| Time (CEST)     | Title    | Authors / Speakers                                                             |
 | --------------- | --------- | ------------------------------------------------------------ |
 | 12:00-12:30h    | Differentially-Private Process Mining (DPPM): Using A Real-World Sepsis Dataset in the context of Privacy Preserving Process Mining | S. Amna Sohail, F. Allah Bukhsh, M. van Keulen (*presentation only*) |
 | 12:30-13:00h       | Towards Quantifying Privacy in Process Mining       | M. Rafiei, W.M.P. van der Aalst  |
