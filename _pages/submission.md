@@ -7,7 +7,7 @@ author_profile: true
 ## Important dates
 
 * Submission of Workshop-Paper Abstracts: **19 August 2021**
-* Submission of Workshop Papers: **26 August0 2021**
+* Submission of Workshop Papers: **26 August 2021**
 * Workshop-Paper Notification: 16 September 2021
 * Camera-Ready Submissions of Workshop Papers: 30 September 2021
 * Workshop Day: 1 November 2021
