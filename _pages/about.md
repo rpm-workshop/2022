@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## TPSA Workshop
+## Workshop
 
 Process Mining has been successfully applied in analysing and improving processes based on event logs in all kinds of environments. However, aspects of trust, privacy, and security have been largely neglected when considering the technical design as well as the organizational application of Process Mining. These aspects can be seen from two perspectives: 
 
