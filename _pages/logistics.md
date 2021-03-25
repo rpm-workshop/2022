@@ -8,11 +8,9 @@ redirect_from:
 
 ## Venue
 
-ICPM is going to be a fully virtual conference. 
+Have a look at the ICPM 2021 website for information on Eindhoven:
+https://icpmconference.org/2021/
 
 ## Registration
 
-Registration for ICPM is free for participants without a publication, authors of accepted papers need to pay a reduced publication fee:
-
-* [Registration @ ICPM](https://icpmconference.org/2020/registration/)
-* [Publication Fee](https://icpmconference.org/2020/publication-fee/)
+To be announced
