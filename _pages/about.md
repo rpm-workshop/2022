@@ -9,7 +9,7 @@ redirect_from:
 
 ## TPSA Workshop
 
-Process Mining has been successfully applied in analysing and improving processes based on event logs in all kinds of environments. However, aspects of trust, privacy and security have been largely neglected when considering the technical design as well as the organizational application of Process Mining. These aspects can be seen from two perspectives: 
+Process Mining has been successfully applied in analysing and improving processes based on event logs in all kinds of environments. However, aspects of trust, privacy, and security have been largely neglected when considering the technical design as well as the organizational application of Process Mining. These aspects can be seen from two perspectives: 
 
 **(A) Responsible application of Process Mining** and the trust that the methods and their results cannot or are not misused. Criteria for responsible data science have been defined, e.g., the FACT (Fairness, Accuracy, Confidentiality, Transparency) criteria. How should these criteria be embedded in the design and the application of Process Mining methods.
 
