@@ -19,7 +19,7 @@ For us, **privacy** relates to the concern that event logs may contain personal 
 
 The main objective of the TPSA workshop is to give a forum for the trust, privacy, and security aspects and the responsible application of process mining including other concerns such as fairness, transparency, and accuracy. We invite researchers and industry to share their research, ideas, experience reports, and challenges in this area. The best papers submitted to the workshop will be invited to submit a revised version to a special issue of the [EMISA Journal](https://www.emisa-journal.org/emisa).
 
-The topics of interest for tis workshop, but not limited to, are provided below.
+The topics of interest for this workshop, but not limited to, are provided below.
 
 ## Topics
 
