@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "1st Workshop on Trust and Privacy in Process Analytics (TPPA)"
+title                    : "2nd Workshop on Trust, Privacy and Security in Process Analytics (TPSA)"
 title_separator          : "-"
-name                     : &name "1st Workshop on Trust and Privacy in Process Analytics (TPPA)"
-description              : &description "Workshop organized in conjunction with the 2nd International Conference on Process Mining: ICPM 2020 in Padua, Italy"
-url                      : https://tppa-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/2020" # the subpath of your site, e.g. "/blog"
-repository               : "tppa-workshop/2020"
+name                     : &name "2nd Workshop on Trust, Privacy and Security in Process Analytics (TPPA)"
+description              : &description "Workshop organized in conjunction with the 3rd International Conference on Process Mining: ICPM 2021 in Eindhoven, The Netherlands"
+url                      : https://tpsa-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/2021" # the subpath of your site, e.g. "/blog"
+repository               : "tpsa-workshop/2021"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "TPPA"
+  name             : "TPSA"
   avatar           : ""
-  bio              : "Workshop organized in conjunction with the  2nd International Conference on Process Mining: ICPM 2020"
-  location         : "Padua, Italy"
+  bio              : "Workshop organized in conjunction with the 3rd International Conference on Process Mining: ICPM 2021"
+  location         : "Eindhoven, The Netherlands"
   employer         : 
   googlescholar    : 
   email            : 
