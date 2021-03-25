@@ -6,11 +6,11 @@ author_profile: true
 
 ## Important dates
 
-* Submission of Workshop-Paper Abstracts: **1 September 2020** ~~25 August 2020~~
-* Submission of Workshop Papers: **4 September 2020** ~~1 September 2020~~
-* Workshop-Paper Notification: 22 September 2020 ~~14 September 2020~~
-* Camera-Ready Submissions of Workshop Papers: 29 September ~~22 September 2020~~
-* Workshop Day: 5 October 2020
+* Submission of Workshop-Paper Abstracts: **19 August 2021**
+* Submission of Workshop Papers: **26 August0 2021**
+* Workshop-Paper Notification: 16 September 2021
+* Camera-Ready Submissions of Workshop Papers: 30 September 2021
+* Workshop Day: 1 November 2021
 
 All deadlines correspond to anywhere on earth ('AoE' or 'UTC-12')
 
@@ -25,7 +25,7 @@ Authors should follow the Springer formatting for Lecture Notes on Computer Scie
 ## Submission
 Papers and abstracts should be submitted through the Easy Chair web site in PDF format:
 
-[https://easychair.org/conferences/?conf=tppa2020](https://easychair.org/conferences/?conf=tppa2020)
+**Not yet open**
 
 By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. It is expected that at least one author will register for each accepted paper. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
