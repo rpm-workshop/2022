@@ -14,7 +14,7 @@ description              : &description "Workshop organized in conjunction with 
 url                      : https://tpsa-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/2021" # the subpath of your site, e.g. "/blog"
 repository               : "tpsa-workshop/2021"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "TPSA-Logo-Draft.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
