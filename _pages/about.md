@@ -38,11 +38,11 @@ The topics of interest for this workshop, but not limited to, are provided below
 * Trust in Explainable Process Analytics
 
 ## Organizing Committee
-*	Felix Mannhardt, TU Eindhoven (f.mannhardt@tue.nl)
+*	Felix Mannhardt, Eindhoven University of Technology
 *	Agnes Koschmider, Kiel University
 *	Nathalie Baracaldo, IBM Almaden Research Center
 
-Please direct questions about TPSA to *Felix Mannhardt*.
+Please direct questions about TPSA to *Felix Mannhardt*, f.mannhardt@tue.nl.
 
 ## Program committee (tentative)
 
@@ -55,3 +55,4 @@ Please direct questions about TPSA to *Felix Mannhardt*.
 *	Melanie Volkamer, Karlsruhe Institute of Technology
 *	Moe Wynn, Queensland University of Technology
 *	Sebastiaan van Zelst, RWTH Aachen / FIT
+*	Nicola Zannone, Eindhoven University of Technology
