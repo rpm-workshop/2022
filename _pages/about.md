@@ -28,6 +28,8 @@ The topics of interest for this workshop, but not limited to, are provided below
 * Privacy and Trust for Blockchains in Business Process Management
 * Privacy Engineering for Event Logs 
 * Privacy and Trust in Organizational Data Collection
+* Security Analysis with Process Analytics
+* Security for Process Analytics
 * Analysis of Privacy Compliance with Process Analytics 
 * GDPR and Process Mining
 * Data Quality, and Traceability in Process Analytics
@@ -44,7 +46,7 @@ The topics of interest for this workshop, but not limited to, are provided below
 
 Please direct questions about TPSA to *Felix Mannhardt*, f.mannhardt@tue.nl.
 
-## Program committee (tentative)
+## Program committee
 
 *	Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
 * Olivia Choudhury, Amazon Inc.
