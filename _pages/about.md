@@ -49,7 +49,6 @@ Please direct questions about TPSA to *Felix Mannhardt*, f.mannhardt@tue.nl.
 ## Program committee
 
 *	Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
-* Olivia Choudhury, Amazon Inc.
 *	Stephan Fahrenkrog-Petersen, Humboldt University of Berlin
 * Marwan Hassani, TU Eindhoven
 *	Judith Michael, RWTH Aachen
