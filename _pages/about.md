@@ -53,7 +53,6 @@ Please direct questions about TPSA to *Felix Mannhardt*, f.mannhardt@tue.nl.
 * Marwan Hassani, TU Eindhoven
 *	Judith Michael, RWTH Aachen
 *	Florian Tschorsch, Technical University Berlin
-*	Melanie Volkamer, Karlsruhe Institute of Technology
 *	Moe Wynn, Queensland University of Technology
 *	Sebastiaan van Zelst, RWTH Aachen / FIT
 *	Nicola Zannone, Eindhoven University of Technology
