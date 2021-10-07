@@ -22,7 +22,7 @@ The program of the TPSA workshop includes two sessions: Full papers (accepted to
 |                 | Trustworthy Artificial Intelligence and Process Mining: Challenges and Opportunities  | Pery, M. Rafiei, W.M.P. van der Aalst, M. Simon |
 |                 | Process Mining in Trusted Execution Environments: Towards Hardware Guarantees for Trust-aware Inter-organizational Process Analysis |	M. Müller, A. Simonet-Boulogne, S. Sengupta and O. Beige |
 |                 | Quantifying the Re-identification Risk in Published Process Models | K. Maatouk, F. Mannhardt |
-| 12:45-14:00h    | Lunch (see main [ICPM program](https://icpmconference.org/2021/events/))  |                           |
+| 12:15-14:00h    | Lunch (see main [ICPM program](https://icpmconference.org/2021/events/))  |                           |
 
 ## Presentation format
 
