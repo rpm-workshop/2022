@@ -6,8 +6,7 @@ redirect_from:
   - /agenda/
 ---
 
-The program of the TPSA workshop includes two sessions: Full papers (accepted to the proceedings), and extended abstracts (presentation only). The workshop will take place in-person at ICPM in Eindhoven. In case none of the authors of an accepted paper can travel to Eindhoven due to COVID restrictions, we are going to facilitate a remote attendance. Please consult with the ICPM organizers regarding the options. The registration page of ICPM is here:
-https://icpmconference.org/2021/registration/ 
+The program of the TPSA workshop includes two sessions: Full papers (accepted to the proceedings), and extended abstracts (presentation only). The workshop will take place in-person at ICPM in Eindhoven. In case none of the authors of an accepted paper can travel to Eindhoven due to COVID restrictions, we are going to facilitate a remote attendance. Please consult with the ICPM organizers regarding the options. Please register at the [ICPM registration](https://icpmconference.org/2021/registration/) page.
 
 ## Schedule
 
@@ -23,8 +22,8 @@ https://icpmconference.org/2021/registration/
 |                 | Trustworthy Artificial Intelligence and Process Mining: Challenges and Opportunities  | Pery, M. Rafiei, W.M.P. van der Aalst, M. Simon |
 |                 | Process Mining in Trusted Execution Environments: Towards Hardware Guarantees for Trust-aware Inter-organizational Process Analysis |	M. Müller, A. Simonet-Boulogne, S. Sengupta and O. Beige |
 |                 | Quantifying the Re-identification Risk in Published Process Models | K. Maatouk, F. Mannhardt |
-| 12:15-14:00h    | Lunch   |                           |
+| 12:45-14:00h    | Lunch (see main [ICPM program](https://icpmconference.org/2021/events/))  |                           |
 
 ## Presentation format
 
-TODO
+Presentations are grouped with 3 or 4 papers and within each group, the authors get 15 minutes to present. The 45 or 60 minutes are then followed by a panel of 15 to 20 minutes on the topic of the papers. This panel should be prepared by the authors, who are expected to have read the other papers. It will be moderated by the session chair to make it also be interesting for the audience as well as the people who may be forced to join online due to travel restrictions.
