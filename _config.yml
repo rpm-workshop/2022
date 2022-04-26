@@ -14,7 +14,7 @@ description              : &description "Workshop organized in conjunction with 
 url                      : https://rpm-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/2022" # the subpath of your site, e.g. "/blog"
 repository               : "rpm-workshop/2022"
-teaser                   : "TPSA-Logo-Draft.png"
+teaser                   : "RPM-Logo.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 comments:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "RPM"
-  avatar           : "TPSA-Logo-Draft.png"
+  avatar           : "RPM-Logo.png"
   bio              : "Workshop organized in conjunction with the 4th International Conference on Process Mining: ICPM 2022"
   location         : "Bozen, Italy"
   employer         : 
