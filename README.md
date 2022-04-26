@@ -1,1 +1,1 @@
-This was forked (then detached) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+The main objective of the RPM workshop is to give a forum for RPM, where the concerns regarding responsibility related to Process Mining are discussed by researchers from both social and technical perspectives.
