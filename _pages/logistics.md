@@ -8,9 +8,12 @@ redirect_from:
 
 ## Venue
 
-Have a look at the ICPM 2021 website for information on Eindhoven:
-https://icpmconference.org/2021/
+Have a look at the ICPM 2022 website for information on Bozen-Bolzano:
+
+https://icpmconference.org/2022/
 
 ## Registration
 
-To be announced
+To be opened:
+
+https://icpmconference.org/2022/registration/
