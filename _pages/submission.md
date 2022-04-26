@@ -6,11 +6,12 @@ author_profile: true
 
 ## Important dates
 
-* Submission of Workshop-Paper Abstracts: ~~19 August 2021~~ **26 August 2021**
-* Submission of Workshop Papers: ~~26 August 2021~~ **2 September 2021**
-* Workshop-Paper Notification: 16 September 2021
-* Camera-Ready Submissions of Workshop Papers: 30 September 2021
-* Workshop Day: 1 November 2021
+* Submission of Workshop-Paper Abstracts: **10 August 2022**
+* Submission of Workshop Papers: **17 August 2022**
+* Workshop-Paper Notification: 14 September 2022
+* Pre-workshop Camera-Ready Submissions: 5 October 2022
+* Workshop Day: 24 October 2022
+* Post-workshop Camera-Ready Submissions: 7 November 2022
 
 All deadlines correspond to anywhere on earth ('AoE' or 'UTC-12')
 
@@ -23,8 +24,8 @@ Authors should follow the Springer formatting for Lecture Notes on Computer Scie
 [http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 ## Submission
-Papers and abstracts should be submitted through the Easy Chair web site of the ICPM conference in PDF format by selecting the "2nd Workshop on Trust and Privacy in Process Analytics" track:
-[https://easychair.org/conferences/?conf=icpm2021](https://easychair.org/conferences/?conf=icpm2021)
+Papers and abstracts should be submitted through the Easy Chair web site of the ICPM conference in PDF format by selecting the "3rd Workshop on Responsible Process Mining" track:
+[https://easychair.org/conferences/?conf=icpm2022](https://easychair.org/conferences/?conf=icpm2022)
 
 By submitting a paper, authors implicitly agree that at least one of them will register to the conference and present the paper. It is expected that at least one author will register for each accepted paper. Only papers that have been presented by their authors during the conference will be published in the conference proceedings.
 
