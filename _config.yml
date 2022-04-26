@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "2nd Workshop on Trust, Privacy and Security Aspects in Process Analytics"
+title                    : "3rd Workshop on Responsible Process Mining (RPM)"
 title_separator          : "-"
-name                     : &name "2nd Workshop on Trust, Privacy and Security Aspects in Process Analytics"
-description              : &description "Workshop organized in conjunction with the 3rd International Conference on Process Mining: ICPM 2021 in Eindhoven, The Netherlands"
+name                     : &name "3rd Workshop on Responsible Process Mining (R"
+description              : &description "Workshop organized in conjunction with the 4th International Conference on Process Mining: ICPM 2022 in Bozen-Bolzano, Italy"
 url                      : https://tpsa-workshop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/2021" # the subpath of your site, e.g. "/blog"
-repository               : "tpsa-workshop/2021"
+baseurl                  : "/2022" # the subpath of your site, e.g. "/blog"
+repository               : "rpm-workshop/2022"
 teaser                   : "TPSA-Logo-Draft.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "TPSA"
+  name             : "RPM"
   avatar           : "TPSA-Logo-Draft.png"
-  bio              : "Workshop organized in conjunction with the 3rd International Conference on Process Mining: ICPM 2021"
-  location         : "Eindhoven, The Netherlands"
+  bio              : "Workshop organized in conjunction with the 4th International Conference on Process Mining: ICPM 2022"
+  location         : "Bozen, Italy"
   employer         : 
   googlescholar    : 
   email            : 
