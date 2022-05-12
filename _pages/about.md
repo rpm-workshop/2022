@@ -64,7 +64,6 @@ Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt
 * Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
 * Martin Kapierski, HU Berlin
 * Moe Wynn, Queensland University of Technology
-* Nathalie Baracaldo, IBM Research
 * Nicola Zannone, Eindhoven University of Technology
 * Renata de Carvalho, Eindhoven University of Technology
 * Shangping Ren, San Diego State University
