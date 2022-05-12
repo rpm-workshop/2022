@@ -47,6 +47,7 @@ The topics of interest for this workshop, but not limited to, are provided below
 *	Trustworthy AI and Process Mining
 *	Fairness in Process Mining
 *	Process Mining in Cybersecurity
+*	Sustainability and Process Mining
 
 ## Organizing Committee
 *	Felix Mannhardt, Eindhoven University of Technology
