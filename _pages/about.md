@@ -56,6 +56,16 @@ The topics of interest for this workshop, but not limited to, are provided below
 
 Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt@tue.nl.
 
-## Program committee
+## Program committee (to be extended)
 
-TO BE ANNOUNCED
+* Agnes Koschmider, Kiel University
+* Alessandro Stefanini, University of Pisa
+* Florian Tschorsch, Technical University Berlin
+* Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
+* Martin Kapierski, HU Berlin
+* Moe Wynn, Queensland University of Technology
+* Nathalie Baracaldo, IBM Research
+* Nicola Zannone, Eindhoven University of Technology
+* Renata de Carvalho, Eindhoven University of Technology
+* Shangping Ren, San Diego State University
+* Xixi Lu, Utrecht University
