@@ -59,13 +59,13 @@ Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt
 
 ## Program committee (to be extended)
 
-* Agnes Koschmider, Kiel University
-* Alessandro Stefanini, University of Pisa
-* Florian Tschorsch, Technical University Berlin
+* Agnes Koschmider, Kiel University, Germany
+* Alessandro Stefanini, University of Pisa, Italy
+* Florian Tschorsch, Technical University Berlin, Germany
 * Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
-* Martin Kapierski, HU Berlin
-* Moe Wynn, Queensland University of Technology
-* Nicola Zannone, Eindhoven University of Technology
-* Renata de Carvalho, Eindhoven University of Technology
-* Shangping Ren, San Diego State University
-* Xixi Lu, Utrecht University
+* Martin Kapierski, Humboldt-Universität zu Berlin, Germany
+* Moe Wynn, Queensland University of Technology, Australia
+* Nicola Zannone, Eindhoven University of Technology, The Netherlands
+* Renata de Carvalho, Eindhoven University of Technology, The Netherlands
+* Shangping Ren, San Diego State University, USA
+* Xixi Lu, Utrecht University, The Netherlands
