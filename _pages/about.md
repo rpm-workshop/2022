@@ -50,10 +50,10 @@ The topics of interest for this workshop, but not limited to, are provided below
 *	Sustainability and Process Mining
 
 ## Organizing Committee
-*	Felix Mannhardt, Eindhoven University of Technology
-*	Flavia Maria Santoro, University of the State of Rio de Janeiro
-*	Majid Rafiei, RWTH Aachen University
-*	Stephan Fahrenkrog-Petersen, Humboldt-Universität zu Berlin
+*	Felix Mannhardt, Eindhoven University of Technology, Netherlands
+*	Flavia Maria Santoro, University of the State of Rio de Janeiro, Brazil
+*	Majid Rafiei, RWTH Aachen University, Germany
+*	Stephan Fahrenkrog-Petersen, Humboldt-Universität zu Berlin, Germany
 
 Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt@tue.nl.
 
@@ -65,7 +65,7 @@ Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt
 * Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
 * Martin Kapierski, Humboldt-Universität zu Berlin, Germany
 * Moe Wynn, Queensland University of Technology, Australia
-* Nicola Zannone, Eindhoven University of Technology, The Netherlands
-* Renata de Carvalho, Eindhoven University of Technology, The Netherlands
+* Nicola Zannone, Eindhoven University of Technology, Netherlands
+* Renata de Carvalho, Eindhoven University of Technology, Netherlands
 * Shangping Ren, San Diego State University, USA
 * Xixi Lu, Utrecht University, The Netherlands
