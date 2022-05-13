@@ -68,4 +68,4 @@ Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt
 * Nicola Zannone, Eindhoven University of Technology, Netherlands
 * Renata de Carvalho, Eindhoven University of Technology, Netherlands
 * Shangping Ren, San Diego State University, USA
-* Xixi Lu, Utrecht University, The Netherlands
+* Xixi Lu, Utrecht University, Netherlands
