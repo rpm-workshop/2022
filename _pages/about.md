@@ -69,3 +69,4 @@ Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt
 * Renata de Carvalho, Eindhoven University of Technology
 * Shangping Ren, San Diego State University
 * Xixi Lu, Utrecht University
+* Gamal Elkoumy, University of Tartu
