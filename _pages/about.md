@@ -63,7 +63,7 @@ Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt
 * Alessandro Stefanini, University of Pisa, Italy
 * Florian Tschorsch, Technical University Berlin, Germany
 * Luciano Garcia Bañuelos, Tecnologico de Monterrey, Mexico
-* Martin Kapierski, HU Berlin
+* Martin Kabierski, Humboldt-Universität zu Berlin, Germany
 * Moe Wynn, Queensland University of Technology
 * Nicola Zannone, Eindhoven University of Technology
 * Renata de Carvalho, Eindhoven University of Technology
