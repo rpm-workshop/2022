@@ -15,15 +15,15 @@ The RPM workshop has a joint program with the [DQT-PM](https://www.processdataqu
 | --------------- | --------- | ------------------------------------------------------------ |
 | 09:00-09:15h    | Opening  |  |
 | 09:15-10:15h    | **Keynote** | *Janina Nakladal*, Director of Sustainability at Celonis |
-| 10:15-10:45h    | Session **RPM Presentation-only** <br> 15 minute presentation + 10 minutes discussion |  |
+| 10:15-10:45h    | Session **RPM Presentation-only** |  |
 |                 | Considering Process Diversity as an Additional Quality Dimension in Process Discovery | Clemens Schreiber |
 | 10:45-11:30h    | Coffee break     | |
-| 11:30-12:45h    | Session **RPM Full papers** <br> 15 minute presentation + 5 minutes Q/A each and 15 minute panel discussion |  |
+| 11:30-12:45h    | Session **RPM Full papers** |  |
 |                 | Discrimination-Aware Process Mining: a Discussion | Timo Pohl, Mahnaz Sadat Qafari and Wil van der Aalst |
 |                 | BERMUDA: Participatory Mapping of Domain Activities to Event Data via System Interfaces | Vlad Paul Cosma, Thomas Hildebrandt, Christoffer Gyldenkærne and Tijs Slaats |
 |                 | TraVaS: Differentially Private Trace Variant Selection for Process Mining | Majid Rafiei, Frederik Wangelik and Wil M.P. van der Aalst.   |
 | 12:45-14:30h    | Lunch (see main [ICPM program](https://icpmconference.org/2022/program/))       | |
-| 14:30-15:45h    | Session **DQT-PM Full Papers** <br> 15 minute presentation + 5 minutes Q/A each and 15 minute panel discussion |  |
+| 14:30-15:45h    | Session **DQT-PM Full Papers** |  |
 |                 |  |  |
 |                 |  |  |
 |                 |  |  |
