@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-The RPM workshop has a joint program with the DQT-PM workshop on the very related topics of Data Quality and Data Transformation. The joint workshop program includes three paper sessions: two full paper sessions and one presentation-only session. The day starts with a keynote provided by *Janina Nakladal*, Director of Sustainability at Celonis and is concluded with a panel discussion for which we have invited Anne Rozinat, Founder of Fluxicon and Sander Leemans, Professor at RWTH Aachen.
+The RPM workshop has a joint program with the [DQT-PM](https://www.processdataquality.com/dqthome) workshop on the very related topics of Data Quality and Data Transformation. The joint workshop program includes three paper sessions: two full paper sessions and one presentation-only session. The day starts with a keynote provided by *Janina Nakladal*, Director of Sustainability at Celonis and is concluded with a panel discussion for which we have invited Anne Rozinat, Founder of Fluxicon and Sander Leemans, Professor at RWTH Aachen.
 
 ## Schedule
 
