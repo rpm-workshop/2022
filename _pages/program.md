@@ -24,9 +24,9 @@ The RPM workshop has a joint program with the [DQT-PM](https://www.processdataqu
 |                 | TraVaS: Differentially Private Trace Variant Selection for Process Mining | Majid Rafiei, Frederik Wangelik and Wil M.P. van der Aalst.   |
 | 12:45-14:30h    | Lunch (see main [ICPM program](https://icpmconference.org/2022/program/))       | |
 | 14:30-15:45h    | Session **DQT-PM Full Papers** |  |
-|                 |  |  |
-|                 |  |  |
-|                 |  |  |
+|                 | Deriving Event Logs from Legacy Software Systems | Marius Breitmayer, Lisa Arnold, Stephan La Rocca and Manfred Reichert |
+|                 | Creating Translucent Event Logs to Improve Process Discovery | Harry Herbert Beyel and Wil van der Aalst |
+|                 | Defining data quality issues in process mining with IoT data | Yannis Bertrand, Rafaël Van Belle, Jochen De Weerdt and Estefanía Serral |
 | 15:45-16:30h    | Coffee break     | |
 | 16:30-17:30h    | Panel discussion: **Can we trust Process Mining results?** | *Anne Rozinat*, Founder Fluxicon  <br> *Sander Leemans*, Professor RWTH Aachen |
 
