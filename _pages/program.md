@@ -19,9 +19,9 @@ The RPM workshop has a joint program with the [DQT-PM](https://www.processdataqu
 |                 | Considering Process Diversity as an Additional Quality Dimension in Process Discovery | Clemens Schreiber |
 | 10:45-11:30h    | Coffee break     | |
 | 11:30-12:45h    | Session **RPM Full papers** |  |
-|                 | Discrimination-Aware Process Mining: a Discussion | Timo Pohl, Mahnaz Sadat Qafari and Wil van der Aalst |
-|                 | BERMUDA: Participatory Mapping of Domain Activities to Event Data via System Interfaces | Vlad Paul Cosma, Thomas Hildebrandt, Christoffer Gyldenkærne and Tijs Slaats |
-|                 | TraVaS: Differentially Private Trace Variant Selection for Process Mining | Majid Rafiei, Frederik Wangelik and Wil M.P. van der Aalst.   |
+|                 | [Discrimination-Aware Process Mining: a Discussion](/pre-proceedings/ICPM_2022_paper_152_Discrimination-Aware%20Process%20Mining.pdf) | Timo Pohl, Mahnaz Sadat Qafari and Wil van der Aalst |
+|                 | [BERMUDA: Participatory Mapping of Domain Activities to Event Data via System Interfaces](/pre-proceedings/ICPM_2022_paper_179_BERMUDA.pdf) | Vlad Paul Cosma, Thomas Hildebrandt, Christoffer Gyldenkærne and Tijs Slaats |
+|                 | [TraVaS: Differentially Private Trace Variant Selection for Process Mining](/pre-proceedings/ICPM_2022_paper_174_TraVaS.pdf) | Majid Rafiei, Frederik Wangelik and Wil M.P. van der Aalst.   |
 | 12:45-14:30h    | Lunch (see main [ICPM program](https://icpmconference.org/2022/program/))       | |
 | 14:30-15:45h    | Session **DQT-PM Full Papers** |  |
 |                 | Deriving Event Logs from Legacy Software Systems | Marius Breitmayer, Lisa Arnold, Stephan La Rocca and Manfred Reichert |
