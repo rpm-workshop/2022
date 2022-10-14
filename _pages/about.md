@@ -57,7 +57,7 @@ The topics of interest for this workshop, but not limited to, are provided below
 
 Please direct questions about the RPM workshop to *Felix Mannhardt*, f.mannhardt@tue.nl.
 
-## Program committee (to be extended)
+## Program committee
 
 * Agnes Koschmider, Kiel University, Germany
 * Alessandro Stefanini, University of Pisa, Italy
